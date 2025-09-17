@@ -1,2 +1,2 @@
 # sample_proj3
-수정 부탁드립니다
+my name is 양현서.
